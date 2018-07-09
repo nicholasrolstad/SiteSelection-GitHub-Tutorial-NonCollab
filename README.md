@@ -1,5 +1,3 @@
 # SiteSelection-GitHub-Tutorial
 
-A super awesome project for super awesome people.
-
-It's pretty great.
+Repository for GitHub Tutorial - Non-Collaborator
